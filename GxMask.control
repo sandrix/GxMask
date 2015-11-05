@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<ControlDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1.0.0</Version>
+  <DataSourceAllowed>None</DataSourceAllowed>
+  <CustomDataSources />
+  <AutoGrowSupported>false</AutoGrowSupported>
+  <IncludeInControlInfo>false</IncludeInControlInfo>
+  <SupportFiles />
+  <iOS_SupportFiles />
+  <Android_SupportFiles />
+  <BB_SupportFiles />
+  <RuntimeRender>GxMaskRender.js</RuntimeRender>
+  <HeightPropertyName>Height</HeightPropertyName>
+  <WidthPropertyName>Width</WidthPropertyName>
+  <ResizeSupported>false</ResizeSupported>
+  <ObjClass>GxMask</ObjClass>
+  <Description>GxMask</Description>  
+  <Id>852a20a5-95e2-4360-b68a-4c2ca09fa841</Id>
+  <Name>GxMask</Name>
+  <Platforms />
+  <ShowMethod>show</ShowMethod>
+  <ReferencedFiles>
+    <File>Shared\vanilla-masker.min.js</File>
+  </ReferencedFiles>
+  <iOS_ReferencedFiles />
+  <Android_ReferencedFiles />
+  <BB_ReferencedFiles />
+  <Constructor>
+    <Parameters />
+    <Name>GxMask</Name>
+  </Constructor>
+  <PropertiesDefinition>GxMaskProperties.xml</PropertiesDefinition>
+  <DesignRender>GxMaskRender.xsl</DesignRender>
+  <ToolboxIcon>GxMask.ico</ToolboxIcon>
+  <ControlType />
+  <Categories />
+  <Events />
+  <Methods />
+  <Actions />
+  <IsPublic>true</IsPublic>
+  <Android_IsScrollable>false</Android_IsScrollable>
+</ControlDefinition>
