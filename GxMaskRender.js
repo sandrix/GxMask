@@ -28,7 +28,7 @@ function GxMask($)
 				tel.addEventListener('input', inputHandler.bind(undefined, telMask, 14), false);	
 				break;
 			case 'cpfcnpj':
-				var docMask = ['999.999.999-999', '99.999.999/9999-99'];
+				var docMask = ['999.999.999-99', '99.999.999/9999-99'];
 				var doc = document.querySelector('#'+this.AttachControl);
 				doc.addEventListener('input', inputHandler.bind(undefined, docMask, 14), false);
 				break;
