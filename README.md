@@ -24,5 +24,5 @@ Mobile browsers:
 * Windows Phone browsers
 
 ### Version
-1.0.2
+1.0.3
 
